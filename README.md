@@ -30,12 +30,11 @@ My goal is to work remotely with international teams and build products that mak
 
 - 💰 NUMEI (Personal Finance App)
 - 🤖 ATHENA (AI Assistant)
-- 🛠️ HelpDesk System
 - 🌐 Personal Portfolio
-
+- 🪐 Saturn-Ofertas (App)
 ---
 
 ## 📫 Connect with me
 
 - LinkedIn: https://linkedin.com/in/seu-link
-- Email: seuemail@gmail.com
+- Email: matheusssec21@gmail.com
